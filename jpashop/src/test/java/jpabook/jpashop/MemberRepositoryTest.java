@@ -9,6 +9,14 @@ import org.springframework.boot.test.context.SpringBootTest;
 class MemberRepositoryTest {
 
     @Autowired MemberRepository memberRepository;
-
+    @Test
+    @DisplayName("test")
+    void test() {
+        // given
+        
+        // when
+        
+        // then
+    }
 
 }
